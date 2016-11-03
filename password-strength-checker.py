@@ -1,5 +1,5 @@
 ########################################################
-#        Program to check password strength from       #
+#        Program to check password strength            #
 #                                                      #
 #                                                      #
 #                 Author - Apurav Gaur                 #
