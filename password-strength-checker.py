@@ -9,9 +9,10 @@
 ########################################################
 
 import re
-
+import getpass
 while True:
-  	password = raw_input('Password: ... ')
+	#using getpass means that the users input will not be echoed by the terminal
+  	password = getpass.getpass('Password: ... ')
 
     	if 6 <= len(password) <= 12:
     		break
